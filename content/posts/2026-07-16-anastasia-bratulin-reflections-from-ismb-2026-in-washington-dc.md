@@ -1,6 +1,5 @@
 author: "Anastasia Bratulin"
-date: 2026-07-16
-draft: false
+date: 2026-08-07
 category:
  - community
  - event-fellowship
@@ -12,7 +11,7 @@ tag:
  - travel-fellowship
  - BOSC
 
-title: "Reflections from ISMB 2026 in Washington, D.C."
+title: "Reflections from ISMB 2026 in Washington, D.C.: Anastasia Bratulin"
 url: /2026/07/16/2026-07-16-anastasia-bratulin-ismb-2026
 ---
 
